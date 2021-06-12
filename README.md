@@ -1,3 +1,20 @@
+# More on Machine Learning & Deep Learning
+
+Find more of my deep learning models on the following links:
+
+- [Car Detection](https://github.com/Rakib1508/car-detection)
+- [Emoji Generator](https://github.com/Rakib1508/emojify)
+- [Face Recognition](https://github.com/Rakib1508/face-recognition)
+- [Machine Translation](https://github.com/Rakib1508/machine-translation)
+- [Neural Style Transfer](https://github.com/Rakib1508/neural-style-transfer)
+- [Trigger Word Detection](https://github.com/Rakib1508/trigger-word-detection)
+- [Word Vector Representation](https://github.com/Rakib1508/word-vector-representation)
+
+More ML/DL models in the following links:
+
+- [Simple Deep Learning models](https://github.com/Rakib1508/dl-projects)
+- [Machine Learning with MatLab](https://github.com/Rakib1508/Machine-Learning)
+
 # Machine Learning (ML)
 
 This repositry contains the python solutions of the programming assignments for the [Coursera Machine Learning online class](https://www.coursera.org/learn/machine-learning) taught by Professor Andrew Ng. This is perhaps the most popular introductory online machine learning class. In addition to being popular, it is also one of the best Machine learning classes any interested student can take to get started with machine learning. An unfortunate aspect of this class is that the programming assignments are in MATLAB or OCTAVE, probably because this class is quite old and was probably made before python became the go-to language in machine learning.
